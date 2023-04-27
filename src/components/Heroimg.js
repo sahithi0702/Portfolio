@@ -9,7 +9,7 @@ function Heroimg() {
         <img src={One} alt="may be deleted" className="Intro-img"></img>
         </div>
         <div className="content">
-          <p>HI,IAM SAHITHI PENTHALA</p>
+          <p>HI, I AM SAHITHI PENTHALA</p>
           <h1>COMPETETIVE PROBLEM SOLVER</h1>
           <br></br>
           <div>
