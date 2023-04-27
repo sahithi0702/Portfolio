@@ -29,9 +29,15 @@ function Footer() {
 critical thinking, and communication skills to contribute for the growth and success of the organization.</p>
         <br></br>
         <div className="social">
-        <FaLinkedin size={30} style={{color:"#fff",marginRight:"1rem"}}/>
-        <FaHackerrank size={30} style={{color:"#fff",marginRight:"1rem"}}/>
-        <FaGithub size={30} style={{color:"#fff",marginRight:"1rem"}}/>
+        <a href="https://www.linkedin.com/in/sahithi-penthala-639166215/" target="_blank" rel="noopener noreferrer">
+      <FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} />
+    </a>
+    <a href="https://www.hackerrank.com/penthala_sahithi" target="_blank" rel="noopener noreferrer">
+    <FaHackerrank size={30} style={{color:"#fff",marginRight:"1rem"}}/>
+    </a>
+    <a href="https://github.com/sahithi0702" target="_blank" rel="noopener noreferrer">
+    <FaGithub size={30} style={{color:"#fff",marginRight:"1rem"}}/>
+    </a>
         </div>
         </div>
         </div>
