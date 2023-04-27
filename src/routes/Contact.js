@@ -7,7 +7,7 @@ const Contact = () => {
   return (
     <div>
       <Navbar/>
-      <Heroimg2 heading="CONTACT" text="If my profile matches your requitement contact me at:"/>
+      <Heroimg2 heading="CONTACT" text="If my profile matches your requirement contact me at:"/>
       <Form/>
       <Footer/>
     </div>
